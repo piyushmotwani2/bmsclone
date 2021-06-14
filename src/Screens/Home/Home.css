@@ -1,5 +1,3 @@
-@import "~antd/dist/antd.css";
-
 .trigger {
   padding: 0 24px;
   font-size: 18px;
@@ -20,4 +18,8 @@
 
 .site-layout .site-layout-background {
   background: #fff;
+}
+
+.ant-layout {
+  height: 100%;
 }

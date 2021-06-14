@@ -1,0 +1,10 @@
+.body {
+  background-color: honeydew;
+}
+
+.login-modal {
+  margin: 10%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
